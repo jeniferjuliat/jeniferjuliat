@@ -16,7 +16,6 @@
 - Webpack ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
 
 ## Certifications
-## Certifications
 - Python Essential (Cisco)
 - Basic JavaScript (LinkedIn)
 - JavaScript for Beginners (Udemy)
