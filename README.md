@@ -1,11 +1,11 @@
 # Hello, I'm Jenifer Juliat 👋
 
 ## About Me
-👩‍💻 Passionate about technology and innovation, I'm currently diving into the world of web development, focusing on Front-end and Full-stack.
+👩‍💻 Passionate about technology and innovation, I have a strong interest in front-end and full-stack development. Additionally, I'm currently improving my skills in data engineering, working extensively with Python, ETL processes, and cloud technologies like Azure and Databricks.
 
 🚀 I founded and managed an e-commerce business in the intimate fashion sector, where I acquired essential skills in project management, customer service, and digital integrations.
 
-📚 I am currently pursuing a Bachelor's degree in Computer Science at Faculdade Descomplica and dedicating myself to freelance programming projects.
+📚 I am currently pursuing a Bachelor's degree in Computer Science at Faculdade Descomplica and actively engaging in freelance programming projects.
 
 ## Technical Skills
 - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -14,8 +14,13 @@
 - HTML ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 - CSS ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 - Webpack ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
+- Azure ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure)
+- Databricks ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks)
+- Airflow ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 ## Certifications
+- Front End Web Developer (Udacity)
 - Python Essential (Cisco)
 - Basic JavaScript (LinkedIn)
 - JavaScript for Beginners (Udemy)
