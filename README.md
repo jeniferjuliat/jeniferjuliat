@@ -32,6 +32,9 @@
 
 ## Featured Projects
 
+### [Travel App] (https://github.com/jeniferjuliat/travel-app)
+This Travel App project is a web application that helps users plan their trips. It integrates multiple APIs to provide information about the destination, including weather forecasts, images, and other relevant details.
+
 ### [Evaluate News NLP](https://github.com/jeniferjuliat/evaluate-news-nlp)
 A Natural Language Processing (NLP) project utilizing the Aylien API to evaluate news. Developed using JavaScript, Node.js, and Express, this project was part of my learning experience in handling APIs and language processing in web applications, created for the Udacity course.
 
