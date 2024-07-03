@@ -32,7 +32,7 @@
 
 ## Featured Projects
 
-### [Travel App] (https://github.com/jeniferjuliat/travel-app)
+### [Travel App](https://github.com/jeniferjuliat/travel-app)
 This Travel App project is a web application that helps users plan their trips. It integrates multiple APIs to provide information about the destination, including weather forecasts, images, and other relevant details.
 
 ### [Evaluate News NLP](https://github.com/jeniferjuliat/evaluate-news-nlp)
